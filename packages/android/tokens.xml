@@ -11,4 +11,9 @@
   <string name="spacing_10">10</string>
   <string name="spacing_20">20</string>
   <string name="spacing_30">30</string>
+  <string name="typography_font_size_small">12px</string>
+  <string name="typography_font_size_medium">16px</string>
+  <string name="typography_font_size_large">20px</string>
+  <string name="typography_font_weight_normal">400</string>
+  <string name="typography_font_weight_bold">700</string>
 </resources>

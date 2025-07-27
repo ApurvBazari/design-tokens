@@ -16,4 +16,9 @@ public class {
     public static let spacing10 = 10
     public static let spacing20 = 20
     public static let spacing30 = 30
+    public static let typographyFontSizeLarge = 20px
+    public static let typographyFontSizeMedium = 16px
+    public static let typographyFontSizeSmall = 12px
+    public static let typographyFontWeightBold = 700
+    public static let typographyFontWeightNormal = 400
 }

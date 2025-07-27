@@ -10,4 +10,9 @@
   --spacing-10: 10;
   --spacing-20: 20;
   --spacing-30: 30;
+  --typography-font-size-small: 12px;
+  --typography-font-size-medium: 16px;
+  --typography-font-size-large: 20px;
+  --typography-font-weight-normal: 400;
+  --typography-font-weight-bold: 700;
 }
