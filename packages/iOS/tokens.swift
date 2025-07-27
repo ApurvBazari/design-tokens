@@ -9,9 +9,11 @@
 import UIKit
 
 public class {
+    public static let colorBackground = #ffffff
     public static let colorError = #e74c3c
     public static let colorMain = #3498db
     public static let colorSuccess = #2ecc71
+    public static let colorText = #333333
     public static let colorWarning = #f1c40f
     public static let spacing10 = 10
     public static let spacing20 = 20
