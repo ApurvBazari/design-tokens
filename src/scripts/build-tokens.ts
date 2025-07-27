@@ -7,7 +7,7 @@
 const platforms = [
   {
     name: 'web',
-    buildPath: 'dist/web/',
+    buildPath: 'packages/web/',
     files: [
       {
         destination: 'tokens.css',
@@ -17,7 +17,7 @@ const platforms = [
   },
   {
     name: 'android',
-    buildPath: 'dist/android/',
+    buildPath: 'packages/android/',
     files: [
       {
         destination: 'tokens.xml',
@@ -27,7 +27,7 @@ const platforms = [
   },
   {
     name: 'iOS',
-    buildPath: 'dist/iOS/',
+    buildPath: 'packages/iOS/',
     files: [
       {
         destination: 'tokens.swift',

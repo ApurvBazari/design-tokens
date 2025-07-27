@@ -5,7 +5,7 @@ A monorepo for managing design tokens in JSON format and generating platform-spe
 ## Structure
 - `src/tokens.json`: Source design tokens in JSON format
 - `src/scripts/build-tokens.ts`: Script to build tokens for all platforms
-- `dist/web/`, `dist/android/`, `dist/iOS/`: Output folders for each platform
+- `packages/web/`, `packages/android/`, `packages/iOS/`: Output folders for each platform
 
 ## Scripts
 - `npm run build`: Build tokens for all platforms
