@@ -8,8 +8,6 @@
   <string name="color_error">#e74c3c</string>
   <string name="color_warning">#f1c40f</string>
   <string name="color_success">#2ecc71</string>
-  <string name="color_opacity_transparent">1</string>
-  <string name="color_opacity_opaque">0</string>
   <string name="spacing_10">10</string>
   <string name="spacing_20">20</string>
   <string name="spacing_30">30</string>

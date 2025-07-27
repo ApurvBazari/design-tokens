@@ -11,8 +11,6 @@ import UIKit
 public class {
     public static let colorError = #e74c3c
     public static let colorMain = #3498db
-    public static let colorOpacityOpaque = 0
-    public static let colorOpacityTransparent = 1
     public static let colorSuccess = #2ecc71
     public static let colorWarning = #f1c40f
     public static let spacing10 = 10
